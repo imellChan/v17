@@ -3,7 +3,7 @@
 
 Klik Untuk Langsumg Nge Deploy Di Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Haikalbotz/ikalbase)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imellChan/v17)
 
 ## For Termux
 ```bash
