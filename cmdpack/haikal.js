@@ -251,7 +251,7 @@ var wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')
 //console update
 setInterval(() => {
 fs.writeFileSync('./cmdpack/tempatdata/User/user.json', JSON.stringify(global.db, null, 2))
-console.log('Updating Database 😗 .. Nakano-Base')
+console.log('Updating Database 🐦 .. Y𝖆кuz𝖆-Base')
 }, 60 * 1000)
 
 						
@@ -361,14 +361,14 @@ var menunya = `
 kepadamu pakaian untuk menutup auratmu dan
 pakaian indah untuk perhiasan” (QS. Al A’raf: 32)
 
-©haikal ${date} ${week} - ${dateIslamic}
+©Y𝖆кuz𝖆 ${date} ${week} - ${dateIslamic}
 `
 
 
 
 //---------- Bagian Fake虏 ---------------------------\\
 
-faketeks = `©haikal - ${dateIslamic}`
+faketeks = `©Y𝖆кuz𝖆 - ${dateIslamic}`
 
 var fakelink = (teks) => {
 haikal.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
@@ -410,7 +410,7 @@ participant: `0@s.whatsapp.net`, ...(from ?
 },
 message: { 
 "videoMessage": { 
-"title": `Haikal`,
+"title": `Y𝖆кuz𝖆`,
 "h": `OWNER KU JELEK馃槃`,
 'duration': '99999', 
 'caption': `OWNER KU JELEK馃槃`,
